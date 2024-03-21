@@ -1,0 +1,17 @@
+mysql:
+  user: "root"
+  password: '33.33'
+  port: 3306
+  host: 'localhost'
+#  host: '192.168.1.101'
+  db: 'test'
+  charset: "utf8"
+
+
+
+
+
+
+
+
+
